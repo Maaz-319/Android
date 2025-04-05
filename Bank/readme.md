@@ -10,7 +10,6 @@ The **Bank Management System** is a mobile application offering users the abilit
 
 - Account balance management
 - Deposit and withdrawal functionality
-- Transaction history tracking
 - User authentication and security
 
 ---
